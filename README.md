@@ -9,7 +9,9 @@
 
 | Name | GitHub |
 |------|--------|
-| Marlin | [@your-username](https://github.com/your-username) |
-| Copilot | [@microsoft](https://github.com/microsoft) |
+| Marlin Wong | (https://github.com/marlin46) |
+| Daksh Mamnani | (https://github.com/duckish-ui) |
+| Adhvaith Vinothkumar |  |
+
 
 
