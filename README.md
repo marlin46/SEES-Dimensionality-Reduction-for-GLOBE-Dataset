@@ -11,7 +11,7 @@
 |------|--------|
 | Marlin Wong | (https://github.com/marlin46) |
 | Daksh Mamnani | (https://github.com/duckish-ui) |
-| Adhvaith Vinothkumar |  |
+| Adhvaith Vinothkumar | (https://github.com/adhvaithvk) |
 
 
 
